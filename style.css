@@ -1,0 +1,13 @@
+body{background-color: aquamarine;
+    color:rgb(170, 255, 0);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+    h1{color:blue}
+
+    a{color:red}
+    a:hover {color:blueviolet}
+    ul > li{font-weight: bold;
+            color:aqua}
+    h1+p{ background-color: blue;
+        padding: 10px;
+        border-radius: 5px;}
